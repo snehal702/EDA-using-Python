@@ -4,7 +4,7 @@ It showcases the various projects on Exploratory Data Analysis done using Pandas
 Project 1: TELCO CUSTOMER CHURN
 Description : To reduce the risk of losing customers by profiling and anticipating churness and taking proactive measures to earn profits & minimize the loss of
 acquiring new customers
-Dataset: Kaggle dataset of a Telco Company of Customers Characteristics who churned in the last month
+# Dataset: Kaggle dataset of a Telco Company of Customers Characteristics who churned in the last month
 Steps: 
   - EDA was performed using Pandas, Seaborn to analyze the characteristics of customers who to tend to churn by taking comparisons between to customer profiles
     one who churned and the other was who stayed with the company.
